@@ -1,0 +1,29 @@
+{
+  "titulo": "A Casa Onde Guardamos o Amanhã",
+  "capitulos": 8,
+  "palavras_da_narrativa": 6357,
+  "minutos_a_180_palavras_por_minuto": 35.3,
+  "faixa_a_180_220_palavras_por_minuto": [
+    28.9,
+    35.3
+  ],
+  "paginas_pdf": 30,
+  "aberturas_pdf_paginas_fisicas": [
+    4,
+    7,
+    10,
+    13,
+    16,
+    19,
+    22,
+    25
+  ],
+  "epub_zip_xml_links_paragrafos": "PASSOU",
+  "pdf_todos_paragrafos_presentes_em_ordem": "PASSOU",
+  "epubcheck": "NAO EXECUTADO",
+  "kindle_previewer": "NAO EXECUTADO",
+  "autoria": "Não informada; omitida",
+  "backup_publico": "Repositório PUBLIC; arquivos salvos em commit local, envio final verificado na entrega",
+  "pdf_inspecao_visual": "Todas as paginas em visão geral; capa, contracapa e páginas de ajuste ampliadas",
+  "pdf_limites_texto": "PASSOU"
+}
